@@ -1,4 +1,5 @@
 # InLoVE
+## Indoor Localization Using Voice Enabled Systems
 
 ### Project proposal:
 https://github.com/pavankotas/InLoVE/blob/master/InLoVE.pdf
