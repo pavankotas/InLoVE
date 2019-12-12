@@ -5,6 +5,7 @@
 https://github.com/pavankotas/InLoVE/blob/master/InLoVE.pdf
 
 ### Project Final Poster:
+https://github.com/pavankotas/InLoVE/blob/master/InLoVE%20project%20poster.pdf
 
 ### Project Demo Video Link:
 https://youtu.be/VWIv5Vp9P4c
