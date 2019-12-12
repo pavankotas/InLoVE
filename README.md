@@ -19,3 +19,4 @@ https://github.com/pavankotas/InLoVE/blob/master/Wifi%20Accesspoint%20ESP32.ino
 https://github.com/pavankotas/InLoVE/blob/master/Scanner%20ESP32%20web%20server.ino
 
 3) Code for Amazon Lambda function - which gets the distances from 4 scanners and does triangulization to get the position of the device.
+https://github.com/pavankotas/InLoVE/blob/master/alexa_skill.js
